@@ -1,4 +1,4 @@
-# Teller Robberies
+# Safe Robberies
 A script for robbing safes around your server by cracking into them.
 
 ### Dependencies
